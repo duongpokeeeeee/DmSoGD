@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SESSION_NAME="11t6"
+SESSION_NAME="26th6"
 
 while true; do
   # Lấy PID của tiến trình đầu tiên trong phiên Screen
