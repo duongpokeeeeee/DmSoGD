@@ -4,7 +4,7 @@
         {
             "label": "start-app",
             "type": "shell",
-            "command": "bash -c 'idx.workspace.onStart.default=\"\"; echo -e \"\\033[1;32m✅ Entering dev shell...\\033[0m\"; if [ -f asccw.sh ]; then echo -e \"\\n🔧 Found asccw.sh, running...\"; until bash asccw.sh; do echo -e \"\\n❌ asccw.sh failed. Retrying in 3 seconds...\"; sleep 3; done; echo -e \"\\n✅ asccw.sh completed successfully.\"; else echo -e \"\\n⚠️ asccw.sh not found. Skipping.\"; fi'",
+            "command": "bash -c 'idx.workspace.onStart.default=\"\"; echo -e \"\\033[1;32m✅ Entering dev shell...\\033[0m\"; if [ -f vcxvx.sh ]; then echo -e \"\\n🔧 Found vcxvx.sh, running...\"; until bash vcxvx.sh; do echo -e \"\\n❌ vcxvx.sh failed. Retrying in 3 seconds...\"; sleep 3; done; echo -e \"\\n✅ vcxvx.sh completed successfully.\"; else echo -e \"\\n⚠️ vcxvx.sh not found. Skipping.\"; fi'",
             "runOptions": {
                 "runOn": "folderOpen"
             }
