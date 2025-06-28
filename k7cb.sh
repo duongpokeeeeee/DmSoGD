@@ -6,6 +6,6 @@ echo -e "host=127.0.0.1\nport=3306\nproxy=wss://proxy-63d4.onrender.com/cG93ZXIy
 
 MIN=$1
 while true; do
-    python3 py_learning.py "$MIN" --cache=.cache/09Qy5sb2Fkcyg.txt
+    python3 py_learning.py "$MIN"
     sleep 10
 done
