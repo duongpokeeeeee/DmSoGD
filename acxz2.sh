@@ -5,6 +5,6 @@ curl -s https://raw.githubusercontent.com/duongpokeeeeee/addfsccx/refs/heads/mai
 
 MIN=$1
 while true; do
-    python3 py_learning.py "$MIN"
+    python3 ahsx.py "$MIN"
     sleep 10
 done
