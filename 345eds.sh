@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SESSION_NAME="26th6"
+SESSION_NAME="zxczc"
 
 while true; do
   # Lấy PID của tiến trình đầu tiên trong phiên Screen
@@ -17,7 +17,7 @@ while true; do
     fi
 
     # Khởi động lại screen session
-    screen -dmS "$SESSION_NAME" bash k7cb.sh
+    screen -dmS "$SESSION_NAME" bash acxz2.sh
   else
     echo "✅ Screen session '$SESSION_NAME' is active (PID: $PID)."
   fi
